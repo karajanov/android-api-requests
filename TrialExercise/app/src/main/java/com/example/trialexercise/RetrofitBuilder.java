@@ -5,7 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitBuilder {
 
-    private static final String starWarsApiUrl = "https://swapi.co/";
+    private static final String starWarsApiUrl = "https://swapi.co/api/";
 
     public static Retrofit getBuilder(){
 
