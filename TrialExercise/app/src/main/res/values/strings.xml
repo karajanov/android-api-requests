@@ -3,4 +3,8 @@
     <string name="menu_item_darkmode">Dark Mode</string>
     <string name="menu_item_random_film">Random</string>
     <string name="intro_img_desc">Star Wars Logo</string>
+    <string name="intro_title">Film Info</string>
+    <string name="intro_placeholder">
+        Click the random menu item to display info about some of the movies
+    </string>
 </resources>
